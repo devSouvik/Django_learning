@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Sign up!</title>
+  </head>
+  <body>
+    <form action="thankyou.html" method="GET">
+      <h1>Course sign up page</h1>
+
+      <p>
+        Please note: First name, last name, password and email are mandatory
+      </p>
+
+      <p>
+        <label for="fname">First Name: </label>
+        <input
+          id="fname"
+          type="text"
+          value=""
+          placeholder="First name"
+          required
+        />
+        <label for="lname">Last name: </label>
+        <input
+          id="lname"
+          type="text"
+          value=""
+          placeholder="Last name"
+          required
+        />
+      </p>
+
+      <p>
+        <label for="em">Email: </label>
+        <input
+          id="em"
+          type="email"
+          value=""
+          placeholder="your email id here"
+          required
+        />
+        <label for="pass">Password: </label>
+        <input
+          id="pass"
+          type="password"
+          value=""
+          placeholder="password here"
+          required
+        />
+      </p>
+
+      <h2>Are you over the age of 18?</h2>
+
+      <label for="y">Yes </label>
+      <input type="radio" id="y" name="over" value="yes" />
+
+      <label for="n">No</label>
+      <input type="radio" id="n" name="over" value="no" />
+
+      <h2>Do you have a Credit card or Paypal account?</h2>
+      <select name="" id="">
+        <option value="credit card">Credit Card</option>
+        <option value="paypal">Paypal</option>
+      </select>
+      <p>
+        <textarea name="feedback" id="" cols="30" rows="10"></textarea>
+      </p>
+      <input type="submit" value="Submit" />
+    </form>
+  </body>
+</html>

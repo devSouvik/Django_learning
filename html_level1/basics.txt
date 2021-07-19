@@ -1,0 +1,1311 @@
+===================
+IT/Core Jobs
+===================
+TCS Ninja Hiring - Year Of Passing 2022
+Inviting Engineering Ninjas to start big.
+Registration end date: 15th August, 2021
+Link: https://lnkd.in/e-f8c5z
+============
+Sasken Fresher opening Android developers
+0-3 yrs
+https://ngage.sasken.com/careers/JobApply/JobApplyPage?dID=20113&cCod=10IN
+============
+Paytm is looking to hire B.Tech/M.Tech(Computer Science/IT/Computer Software) 2021(Only) batch freshers who are good at
+Data structures/Algos, Coding and are immediately available.
+Kindly share resume at talent@paytm.com with Subject line "Batch 2021-College Name".
+============
+ALTRAN HIRING FRESHERS FOR ASSOCIATE SOFTWARE ENGINEER POSITIONS
+REQUIRED -- 3 MONTHS
+WORK LOCATION -- BANGALORE
+DESIRED CANDIDATE PROFILE;
+MANDATORY SOFTWARE SKILLS-- C C++
+QUALIFICATION -- BE,B TECH (computer science)
+https://career10.successfactors.com/career?career_ns=job_listing&company=C0002723615P&navBarLevel=JOB_SEARCH&career_job_req_id=77560&jobboardID=2843
+============
+Evergent, Inc. hiring Java Freshers for it's Hyderabad office.
+If you're trained & interested?! Please do share your profile to hiring@evergent.com or refer your friend.
+Eligibility Criteria - 2018, 2019, 2020 Passouts from BTech/MTech/MCA
+Drive Date - 24th July 2021 (Virtual Online Assessment)
+==============
+Greetings from Naaptol Online Shopping Pvt. Ltd.
+Naaptol is conducting an online drive for fresher students
+The Online Drive would be for Trainee Java Developer Freshers & Experience (0 to 2 Years).
+Open Position for Trainee Java Developer - 20 Nos
+Job Location: Rabale, Navi Mumbai.
+Tentative Drive Date: Last week July/First Week August 2021
+Mode Of Drive: Online Platform
+Interested students can share their resumes on bhushan.mhatre@naaptol.com OR ankita.shinde@naaptol.com
+Education Criteria:
+Candidates from below mentioned educational background & those who pass out from the 18/ 19/20/21 batch are eligible to
+attend Mega Drive.
+No passing percentage (%) criteria at any level. (the only candidates who have received their final result can apply)
+B.E / B. Tech / M. Tech/ M.E - (IT/Comp/E&TC )
+PG- M.Tech - Computers, Electronics/Telecommunication
+MCA - Computer Application
+MSc - (IT/Comp)
+BCA - Computer Application
+Required Skill: Mandatory / Primary Skills- Core Java, JSP, Servlet, JQuery,JavaScript, CSS, HTML,MySQL, Hibernate
+Core competencies: Good Aptitude, Analytical and problem-solving skills are necessary
+Interpersonal Skill: Should have "Can Do" Attitude
+(Candidates from Electronics & Telecommunication backgrounds can attend Mega Drive provided they have done with Core &
+Advance Java course from any training Institute)
+Job Description:
+1) Fresher’s (18/ 19/20/21 passed outs) with good knowledge of Java concepts are eligible
+2) Good Communication skills are required.
+3) Candidates must be self-motivated, fast learners, organized, metrics-driven.
+4) Strong knowledge of OOPS, Core Java, Collection framework, and Multi-threading.
+5) JDBC, JSP & Servlets.
+6) Strong knowledge of databases like Oracle or MySQL.
+7) Familiar with HTML, CSS, JavaScript, JQuery
+8) Any Java Framework like Hibernate & Web Services will be an added advantage.
+9) Must be willing to work on Java technology and must be a fast learner, must be able to work in dynamic and
+challenging environments.
+Salary: 3.10L
+Bond: 2 years and 2 Months
+==============
+InsideView is looking for a Trainee, you will get to work with enormous datasets containing millions of records.
+Remote/Work from home
+https://boards.greenhouse.io/insideviewin/jobs/4601510003?gh_src=0efc79e83us
+You will get an opportunity to work alongside a great team of data engineers and research analysts to evaluate data and
+implement smarter techniques to validate, analyze and improve data quality. You will use your analytical, statistical
+and problem solving skills in a fast-paced agile environment to push the data quality to new levels.
+Responsibilities
+Collate, research and analyze data based on an understanding of search tools and sources of business information.
+Assist the team in data related professional services and content editorial projects.
+Understand processes, workflows and policies/ guidelines for secondary research.
+Improve overall data quality by performing quality checks on data.
+Identify data coverage gaps and research on prospective solutions.
+Experience & Education
+Master’s degree in Business or Commerce, in finance specialization
+Experience in data analysis or business research
+Finance background or experience
+Basic knowledge of SQL and R
+0-1 year of work experience
+Basic knowledge of MS Office (especially Excel) and internet tool
+Problem solving and analytical skills with attention to detail
+==============
+Company name Dell Company Job Title Software Engineer 1 Qualification Graduates Job Type off-campus Drive Experience
+Fresher & Experience Eligible Batches 2020, 2021 Batches Salary Best in Industry Location Bangalore
+https://jobs.dell.com/job/bengaluru/software-engineer-1/375/19574093
+As a Software Engineer, you will be responsible for developing sophisticated systems and software basis the customer’s
+business goals, needs, and general business environment creating software solutions
+You Will:
+Develop, Test, And Integrate Code For New Or Existing Software While Following Source Code Revision Control
+Troubleshoot Software Reliability And Performance Issues
+Review Requirements, Specifications, And Designs, Developing And Implementing Tests For Product Quality And Performance
+Assurance
+Assist With The Development And Review Of (Technical) End-User Documentation
+Drive Idea Generation For New Software Products Or For The Next Version Of An Existing Product
+Desirable Requirments:
+The first-hand experience gathered during an internship, student job, or related professional role
+Essential Requirements:
+Good Understanding Of Linux OS And OS Customization
+Knowledge Of User Application And Data Security And Linux
+Strong Analytical, Debugging, Research, And Problem-Solving Skills(Crash-Dump Analysis, WPT/Perf, WinDBG)
+Working Experience With Linux DLLs, Shared Objects, And Debugging (Core Dump Analysis, Gdb)
+Knowledge In Developing Microservices To Interact With Multiple Cloud Providers, Hybrid Cloud, And Cloud Storage/Drive
+Integration
+Knowledge In Developing Desktop Applications Using C++/C#, Electron.Js, HTML, CSS, JavaScript With Node.Js,
+React/Express.Js
+Good Knowledge In Object Oriented Programming Concepts With Design Patterns In Python
+Knowledge In Building Applications Using React.Js, Redux.Js, And Express.Js With SQLite
+Knowledge Of CRUD Operations, RESTful APIs, JavaScript Unit Testing Framework, Database Management
+UI Development Using UX Wireframes And Redlines Will Be An Additional Advantage.
+==============
+Trigent We are looking for a #freshers candidate.
+aditya_r@trigent.com
+Below is the Job Description:
+· Good programming knowledge
+· Excellent analytical and problem solving skills
+· Effective communication and flexibility in work timing
+· Trained knowledge on at least one of the following software, .NET / C, C++ / Java
+· Basic knowledge on SQL queries and experience in at least one IDE and debugging
+· Good learnability, exhibit confidence and a team player and
+· Committed to be with the organization for at least 2 years.
+Do circulate this post and help the needful.
+=============
+We are initiating Hiring For Software Testing Engineer (Fresher) for Nashik location.
+Candidates should have completed BE/Btech,CS,IT,MCA.
+Should have knowledge of Manual & Automation testing.
+Interested candidates may send their resume at hr@4fox.in
+=============
+Freshers Job Opening !!
+#freshershiring #freshers2021 #btechfreshers #btechjobs #freshersjob
+#freshers #career
+Please share your profiles to swetha.vandana@quadrantresource.com
+Trained on SQL/Azure/Java/.Net candidates would be preferredBE/BTech(CS)
+Year of passed out 2020&2021
+CGPA 60% and above
+===============
+Fidelity National Financial Hiring Freshers !!
+Qualification-MCA,B.TECH,BE ( CS,IT ) 2019,2020,2021 pass out
+Eligibility- 60% and above in academics.
+Work Location: Bangalore
+If you are interested please send your updated resume at SouravKumar.Singh@fnf.com
+=============
+Element5 Hiring Freshers !!
+Fresh Engineering Graduates Required.
+Apply here ->https://hubs.li/H0SrgsX0
+=============
+We are hiring Freshers (2020/2021 Pass outs) for our Cybersecurity Team.
+Job Location - Software RD Centre , Navalur,Chennai.
+M.E (Biometrics & Cybersecurity) / M.Tech ( Cybersecurity & Digital Forensics)/ M.Tech (Information Security) / M.sc
+(System Security) / Any other Specialization related to Cybersecurity.
+If interested, pls share your updated resume to tacindia.in.mailbox@valeo.com
+Sub Line - Cybersecurity Fresher
+=============
+We at Klaus IT Solutions Pvt. Ltd, Bangalore are
+Hiring for freshers (Graduated- Only), 2020 0r 2021 passed out.
+20 -Open positions.
+Immediate joiners only.
+Preferred location: - Bangalore.
+Work from office,
+Officer Address: -
+Klaus IT Solutions Pvt. Ltd.
+#7, Albert Street | Richmond Town | Bangalore - 560025.
+Interested candidates can , share your resume @ anand.kannan@klausit.com
+=============
+Urgent Hiring for #JAVA_Fresher (Work From Office)
+Exp : 6 months -1 year(Trained/Internship candidate is eligible)
+Location : Hyderabad
+Joining : Immediate
+Qualification :MCA/BTech/MTech
+Salary : 10K to 25K *salary is revised after 3 months
+Skills required*
+Technical Skills: Java, JSP, Javascript, Tomcat
+Preferred Skills: jQuery, AJAX, SPRING, Hibernate ,web services
+If you are interested, kindly fill the form: https://lnkd.in/gn3X-Tc
+============
+Hiring Quality Analyst
+Exp: 0-4 years;
+Education B.Tech / B.E. - Any Specialization Bachelors in technology or equivalent degree in a related area.
+Certification in Testing is a must for freshers
+Job Description
+1.Excellent in Manual Testing Familiarity with Mantis and Bugzilla 2.Functional/feature testing, Regression, load,
+performance, high availability, GUI testing and applications testing Understanding the product requirements, prepare the
+test design, test design reviews, updating the test results and generation of test reports
+3.Should be able to Execution & Monitoring of Test cases, well verse in Troubleshooting, testing concepts and making bug
+reports
+4. Responsible for Creating Test plans and creating Client & Internal Reporting Maintaining Quality Manuals & Standards;
+document
+Desired Skills and Experience
+test engineer, testing, manual testing, test cases, Bugzilla , GUI testing , test design, mantis, quality analyst
+Know about us: https://lnkd.in/gPq6Rge
+If you are a desired candidate please drop your resume to priyadharshini@infinitisoftware.net
+==============
+Hiring Programmers ( 0-1 year) #php #freshers #hiring #fresher
+If you are a coding champ & like to showcase your coding talent in a product based company then Infiniti will be your
+right choice.
+Looking for freshers who are very good in programming & did one valid certifications in any one of these PHP, Angular &
+React along with HTML & CSS.
+Package: Best in industry
+Work location: Chennai ( as of now WFH)
+Please fill the below form we will reach you
+https://lnkd.in/g4tSQyV
+Any question please drop mail to hr@infinitisoftware.net
+=============
+Shopify Developers needed Freshers
+Want to be a member of our DD family and Want to see yourself grow in It field??
+Looking for Friendly and supportive Teams ?? then don't miss to grab the opportunity at Dynamic Dreamz Websolutions.
+Interested IT professionals can apply at hr@dynamicdreamz.com (kindly mention linked in profile)
+For any details, please feel free to contact at 6352011266
+=============
+Looking to hire IT FRESHERS for one of our product based MNC Client.
+Role: Software Engineer/Developer
+Location: Hyderabad/Mumbai
+Eligibility Criteria:
+> BE/ B.Tech bachelor’s degree or master’s degree in engineering (or MCA)
+> 60% in SSC, HSC and graduation and 2020/ 2021 YoP of graduation.
+> Excellent communication skills.
+> No current back log.
+> Ready to join in August'21.
+> People from PAN India & ready to relocate can apply
+Desired skill set:
+Trained and proficient on any of the Object Oriented Languages (C++ or C# or Java). Having a good understanding of OOPS
+concepts. Strong Analytical and problem solving skills.
+Please share your resume at vinita.taneja@flexability.in
+=============
+Urgent Hirings!!
+We are hiring for IT Company and The details are as follows-
+Designation - React.js Developer & Node.js Developer
+Skills - C/c++, Javascript, React.js, Node.js, Go Language.
+Experience - 0-3Yr.
+Salary - Best in industry.
+Freshers can also apply.
+If someone is having reference for the same, Please comment or direct message me for more details for this Job Post.
+Please share my post so that people will know about the vacancy.
+Intrested candidates can direct send their C.V's at kanika.v@knackroot.com
+===============
+Hello #linkedinfamily #connections
+Greetings from Significant Infotech...
+We are #urgent #hiring 𝐀𝐍𝐃𝐑𝐎𝐈𝐃 𝐃𝐄𝐕𝐄𝐋𝐎𝐏𝐄𝐑
+#freshers #experience #seniordeveloper
+#androiddevelopers #androiddevelopment
+#android #androidjobs #freshershiring
+Required Experience: 0 to 2 years
+Location: #Surat
+#Interested candidates can share resumes at hr@significantinfotech.com or 𝐃𝐌 HR. Ekta Parmar
+𝐁𝐞𝐧𝐞𝐟𝐢𝐭𝐬 𝐭𝐨 𝐉𝐨𝐢𝐧 𝐒𝐢𝐠𝐧𝐢𝐟𝐢𝐜𝐚𝐧𝐭 𝐈𝐧𝐟𝐨𝐭𝐞𝐜𝐡 :
+1. Paid leave / Paid vacation
+2. Paid Overtime
+3. Performance Bonus
+4. Career growth benefits
+5. Yearly picnic
+6. Employee training
+7. Friendly work environment
+8. Monthly / Festival celebration at the workplace
+=============
+FIS Global is looking for C++ candidates having development experience from 0 to 9 years & who are willing to work in
+Python as well.
+Candidates must have good c++ basics, logical thinking and hands on.
+Location - Pune
+Contact: https://www.linkedin.com/in/yogesh-dimble-09446491/
+=============
+GyanSys Inc. is looking for Trained/Certified Candidates for
+1. SAP FI
+2. SAP MM
+3. SAP EWM
+4. SAP SD
+Required:-
+1. 0 to 2 years of experience
+2. Willing to relocate Bangalore.
+3. Good Communication Skills.
+Interested Candidate can share his resume
+Eg - Candidate Name / SAP Module / Trained
+Candidate name /SAP Module / Fresher
+Candidate Name / SAP Module / Certified
+nitu.kumari@gyansys.com
+=============
+We are happy to announce that Advaiya is expanding our team and looking for passionate and enthusiastic candidates.
+We are looking for
+1. React Native
+2. SharePoint
+3. Fullstack .Net
+4. BI and data analysts and many other openings
+to apply send in your resume at advaiyahr@advaiya.com
+============
+Mechanical & Civil Freshers Must Apply Here !!
+Integer Telecom Services hiring 2020 & 2021 Btech/Mtech Civil and Mechanical engineering passed out students for it's
+Noida Office. Successful hired candidate will be designated as OSP Drafter Trainee for Tier-1 US Operator with Industry
+standard salary package.
+Below are the mandated requirements.
+1. This position requires to work in only Night Shift.
+2. Excellent English Communication skills.
+3. 2 years of Mandated Employment agreement or Bond.
+4. Start date Mid of August 2021
+5. AutoCAD knowledge is must.
+6. No Work from Home opportunity, it would be work from our Noida Office.
+If interested please share your resume to below email ID
+deepika@integertel.com
+shrikant@integertel.com
+==============
+Look out for this opportunity,
+MNC Freshers Openings: (Full Time)
+1. AWS Developer
+2. Python Developer
+3. Big Data Developer
+4. Node JS
+5. React JS
+6. Java
+7. Full Stack – Front end and back end
+8. QA – Tester
+9. Guidewire
+10. .Net + Azure
+11. Power BI + MSBI
+Option – 1 : Fresher- must completed the course with good knowledge + Certification mandatory
+Option – 2 : 6 Month to 3 Year experience with good knowledge + Certification mandatory
+If the above requirements suits your profile
+kindly drop your profile at careers@doubleslash.co.in
+For further queries can reach me at 93926-42365
+=============
+We are looking for a "Graphic Designer" to join our team!
+Know anyone who might be interested?
+Apply if you are a fresher or have experience of 6-12 months.
+https://www.linkedin.com/jobs/view/2636849134/
+Pune
+============
+We are hiring!
+Looking for a #Magento Developers! We are hiring #fresher also.
+#Experience_required: 1 to 3 years OR #freshers
+#Location: Surat
+#contactus : +91 7948903226
+#sharecv: hr@magesture.com
+============
+are you a passionate Java developer? experienced? or fresher? completed final year Btech or BE student? Upload your CVs
+to our website, we are looking for junior developers (Java) and Software trainees.
+email your CVs to careers@techlabsoft.com (mention in the subject line "Java developer")
+https://techlabsoft.com/careers/
+=============
+WE ARE HIRING!!!!!!
+Looking for freshers who are SAP (Global certified)
+Location - Bangalore,Chennai,Mumbai,Pune
+Job Type - Internship of 6 months
+info@savictech.com
+=============
+Manual tester position fresher for vadodara location
+please share your cv on hr@aliteprojects.com
+=============
+Affinity Express is looking for Graphic Designers @ WFH Kharadi, Pune
+Experience - 0 to 3 years
+CTC - 2 lpa to 2.50 lpa
+Job Description -
+1. Candidates should be from design schools only
+2. Minimum 6 months experience into Graphic Designing
+( Skilled fresher's are also welcome to apply )
+3. Must have Photoshop Knowledge
+4. Candidate should have Personal Laptop/ Desktop & fixed Broad Band connection.
+5. Comfortable to work in Night shifts ( 24/7 ) work environment.
+6. Performance incentives, allowances & other benefits.
+Interested candidates share your CV on djahagirdar@affinityx.com or call on 9686248261
+=============
+Urgently Hiring for ' Graphics Designer '
+Fresher or experienced min 1+ year experience required in graphics designing Photoshop , Coral software.
+PVT LTD COMP
+◆ Gender : Male/Female
+◆Salary Range : 10,000-12,000K
+◆Location: Akurdi , Pune
+--
+If you are looking for JOB change the please drop your CV/Resume :
+mahasurya.ventures@gmail.com
+Cell No.: +91-8552821588
+=============
+Multiple vacancies for Fresher In BNT Soft Pvt Ltd Pune .
+Candidates located in Pune or near by areas please share your updated resume to preethi.mol@bnt-soft.com
+We are looking for freshers with certifications on any of the below :-
+1. Java
+2. IOS
+3. Android
+4 . Node
+=============
+Fresher openings Testing
+Manual Automation API etc
+nnainwal@myeazycare.co
+=============
+Crib, my friend's startup, is looking for freshers in the backend and android (Kotlin) domain.
+Anyone interested in 6 months intern / full time can apply. Please follow the context below -Tech Stack - Python,
+Django, MongoDB, SQL
+This is paid internship as well as a good competitive salary for FTE. To apply, send an email to - hr@dontcrib.in with
+the Subject - "You Name || {{Domain}} Profile || Intern/FTE", and attach your CV/resume in the same.
+#android #python #mongodb #hiringdeveloper #django
+=============
+Numiko are #hiring a Test Engineer. We're interested in people who have the attributes below. We're less interested in
+lots of experience or a qualification, as we can teach knowledge, we can't teach character.
+Please share with your networks as this would be a great opportunity for someone looking to get a #job in #digital. 👇
+Please don't contact us if you're a recruitment agency.
+Essential:
+Inquisitive and interested.
+Attention to detail.
+Good logical reasoning.
+Able to view a website from a user's perspective, and to look at the same piece form the points of view of different
+user needs.
+Outgoing and confident enough to be the lone voice in a group.
+Excellent written and verbal communications.
+Values personal development, drive to learn new skills.
+Organised and self starter, able to work without constant supervision.
+Beneficial (any one of these would be outstanding)
+Any testing experience/qualifications.
+Any knowledge and interest in testing as a career.
+Coding experience of any kind, but c# doubly so.
+Any experience of managing or entering data via a website CMS.
+Interest in or knowledge of the challenges faced by users of assistive technologies such as screen readers.
+Please send an email to jobs@numiko.com if you're interested and tell us why you think you'd be good.
+=============
+We are hiring multiple DEVOPS engineer in India with #skills in #JENKINS, PYTHON and GITHUB. If interested, please rush
+resume to cv@dewsoftware.com
+with expected salary and availability.
+#sjobs
+#experience Hiring all level Fresher’s and experience both can apply
+Work from home
+============
+We are hiring for various positions - Freshers and experienced Candidates. #hiring #java #sql #jobs
+Interested professionals can mail their resumes at (hrm@shivammedisoft.com)
+We are looking for Freshers and 2-8 years of experienced professionals with passion, dedication and commitment to
+excellence and innovation.
+* Below are the various openings.
+HR Manger & HR Executive
+Oracle DBA
+Manual Testing
+Performance Testing Automation
+Java Developers
+Implementation Mangers and executives with HMIS domain Experience
+SQL Developers
+Mobile App Development
+=============
+We are looking for full energetic and smart candidates who willing to join our team with following technologies:
+1 Python (Django/Flask)
+2 ReactJS
+Freshers and Experienced Persons - Both are invited.
+Please put your mobile no or email id in the comment section. or main us on kalpesh.ims.in@gmail.com
+==============
+Looking for Interns:
+1.) Backend Developer Intern
+Exp: 6 months
+Required Skills: Node Js, Mongo DB, React Js , JavaScript, HTML,CSS, MySQL
+2.) Business Development Intern
+Exp: 6 months
+Required Skills: Sales, Content Writing, Email Marketing, Client Relationship, Project Management
+3.) Social Media Intern
+Exp: 6 months
+Required Skills: Digital Marketing, Email Marketing, SEO, SEM
+Grab The Opportunity
+Looking for Immediate Joiner
+Internship Duration: 3 months
+Decent Stipend
+Company: Shethink Pvt. Ltd.
+Location: Indore
+Website: https://shethink.in/
+Interested candidates can fill the form given in the comment section or mail at vedika@shethink.in
+==============
+Job Key Details:
+Experience: 0 to 2 Years
+Mandatory Skills: Java or .NET or Both
+Location: Hyderabad (WFH till Pandemic Ends)
+Job Type: Full Time
+If you are interested please share your update profile to Disha.jayanth@nbits.tech
+Else share in your network and see if we can help anybody who is looking for this opportunity.
+#javadeveloper #dotnetdeveloper #javascript #aspdotnet #javajobs #dotnetjobs #j2ee #corejava #aspnet #hyderabadjobs
+#freshershiring #indiajobs
+Here's the link to the file:
+https://lnkd.in/grzZeve
+Shared from WPS Office:
+https://kso.page.link/wps
+==============
+We are #hiring for the below posts. Kindly have a look at the profiles.
+#WebDeveloper
+Job Description:
+- Must know React, Angular, and APIs.
+#SoftwareDeveloper
+Job Description:
+- Knowledge of programming skills such as C, C++, JAVA, Angular etc,.
+#AndroidDeveloper - 1
+#BDE - 1
+Joining: Immediate
+Experience: Fresher or relevant up to 1 year.
+Location: Indore Preferred
+Interested candidates, kindly send their resumes to himanshi@infobyd.in
+=============
+LOOKING FOR IMMEDIATE JOINERS!!!
+InTech Engineering Services is looking for a suitable profile for the position of Project Coordinator.
+Job Requirements:
+B.Tech Mechanical Fresher
+InTech Engineering Services is contractors of Oil & Gas Pipe Line Laying and projects going on PAN India.
+https://lnkd.in/ea4ajpS
+Role - Permanent
+Location - B 408, Noida One Tower, Sec 62, Noida
+Interested candidates can drop their resume on sahewalla.ritu@gmail.com
+=============
+Urgently looking for an Embedded Software Developer both Senior (more than 5 yrs experience)& Junior (3-5 yrs
+experience) profile.
+Job Description:
+1. Need to have knowledge of C/ C++, Git
+2.Good to have knowledge of python.
+Interested candidates can send me your CV @ pganguly@machinesense.com
+Freshers, 2021 passouts can also apply with good knowledge of C/C++, Python(optional)
+Immediate joiners and local candidates preferred.
+Job location-Salt Lake, Sec-V
+=============
+Call for Graphic Designers,
+I am looking to hire a #Graphicdesigner at the Ahmedabad location on a Full-time basis,
+Note: A #fresher who has knowledge in Adobe Photoshop, Illustrator and have a creative mind can also apply for this
+position.
+Required skills are as follows,
+- Should have 1-2 years of experience in Graphics Design
+- Must required software skills: Adobe Photoshop, Adobe Illustrator, CorelDraw
+- The ideal candidate will have strong creative skills
+- knowledge of UI/ UX Design, HTML, CSS would be an add-on
+If anyone is looking for a job or job change, please share your CV and portfolio on archana.agrawal@voolsy.com
+=============
+One of my friend is looking for developers for her startup in ReactJS and React Native. Freshers can apply as well.
+Profile/Technologies - React/React Native Developer
+Experience Required - 0 to 2 years
+Location - Remote
+Salary: As per industry standards.
+Process: a total of 4 rounds
+1-Techstack Coding.
+2-Interview-1 (Tech)
+3-DSA Coding.
+4- Interview-2 (HR)
+Share resumes at hr@cybertrons.io
+use referred by Rishabh in subject.
+=============
+E- greetings to you all.
+AAKIT is looking for certified/ trained SAP ABAP and SAP BASIS freshers to join our team.
+Immediate joiners preferred who can join within 15 days .
+Interested candidates can apply by sending their updated profiles at careers@aakit.com or urmila.thakur@aakit.com
+Location- work from home ( Subject to the pandemic conditions).
+Location is not a constraint. Candidates should be flexible in travelling if the project demands.
+=============
+If you are a Data Scientist with R programming skills with 6-12 months of experience and looking for an opportunity to
+join the startup world, we Big Analytixs want to hear from you. Freshers with strong R coding skills can also apply.
+Please write and send your resume recruitment@biganalytixs.com. Moreover, Interested candidates can comment down in
+below with your email id as well. Feel free to share this post with your network if you know someone with the mentioned
+skills.
+Location: California / Atlanta. Remote candidates (within the USA) will be considered.
+Candidate Profile:
+As a Data Scientist responsible for R programming, the candidate will perform analysis using R statistical programming
+language. Analysis will include predictive models, data mining and custom statistical models.
+Ideal candidate must be experienced with statistical analyses, should have good knowledge of the R programming language
+and should be able to work independently. The candidate must be self-driven, team player and a good communicator.
+Skills Required:
+Masters in statistics, mathematics, or related fields is required.
+Strong knowledge of R is mandatory.
+Strong understanding of statistical models is required.
+Looking for someone with 6 months - 1 year of experience of working on R. Fresh graduates with good hands-on ability on
+R will be considered.
+Ability to work with large data sets is required.
+Job Description:
+· Prepare datasets for analysis by transforming them
+· Create data pipelines for processing datasets
+· Create queries using R and build and test statistical models
+· Review and improve statistical models
+· Write and debug R programs
+· Develop visualizations as required
+· Prior experience working with globally distributed teams is preferred, but not mandatory.
+==============
+Hiring Product Support Engineers!
+Experience : 0-6 Months!
+Mandatory Skills : Strong in MySQL & Linux/Basic knowledge on Java
+Immediate Joining!!
+Please share your CVs on careers@wolkensoftware.com
+==============
+Job opportunity for Technical support engineer with 0- 2 yrs exped ( remote support )
+Work location - ecity, Bangalore
+wfh option available
+it's for bca, b.e background
+knowledge or exp needed in Service desk, trouble shooting, Technical support , L1, L2 support team , networking, ram
+rom, servers, storage device
+good comm skills needed
+Share ur resume to HR
+akshingari@astoncarter.com
+=============
+We are hiring #QA. must have experience on web and mobile. should have exp on #API. Exp- 0.6-3yrs. #Noida
+share cv at prabhat.chandan444@webkul.com
+============
+Stellium Inc is looking for some go-getters to join our India team.
+MUST HAVE Qualifications:
+Bachelors in Engineering (any stream)
+0- 1 years of experience (freshers are welcome)
+Excellent communication skills (we WILL test you on this!)
+Once selected, you will go through Stellium's comprehensive training before deployment!
+APPLY NOW!
+https://rb.gy/7vshpy
+============
+Willing to work in Global FinTech Company . Fresher's here is the opportunity for BE/B.Tech/MCS Fresher passout. Kindly
+apply or help the needful people. #opportunity #help #jobs #career
+swati.shikare@gmail.com
+https://westernunion.wd5.myworkdayjobs.com/WUjobs/job/IND---Pune/Trainee-Associate--Solution-Engineering_JR0099274?shared_id=5a4b916d-3512-4bcb-8842-f249f6bd1f53
+============
+we are hiring for Lucknow the city of Tehzeeb...
+Pingg have a fantastic team and looking for a fantastic Designer and Developer.
+Experience : 0 to 1 ( freshers are most welcome)
+Work from office
+So what are you waiting for , come and be a part of our Pingg.. # #developer #software #android #team #hiring
+#javascript #java
+#bootstrap #mysql #aspnet
+If you have done a job in this, then send me your CV on given mail id
+jyotsna soni (HR executive)
+pingg.hr@pingg-web.com
+9580502709
+==============
+WE ARE HIRING #freshers -BTech,BE in in Mechanical Engineering
+Looking for young and energetic candidates for the post of Trainee - Business Analyst (Manufacturing ERP domain)
+Skills and Roles:
+√ BE-Mechanical Engineer
+√ Good academic - All clear with through out distinction
+√ Good communication in English
+This is a great opportunity for Mechanical Engineers to acquire skills in manufacturing ERP and bringing change to
+manufacturing industry by use of information technology. You will learn and implement industry4.0 solutions
+For more details please contact us on phone number or email your CV to-email id.
+Vritti Solutions Ltd.
+www.vritti.co.in
+Email: hrweb@vritti.co.in
+Seema Shedge - 8390126633
+==============
+If you looking for a Good opportunity in one of the booming technology- Blockchain
+then we have openings for the same,
+Who can apply:
+Freshers- who have not taken training
+Freshers- who have already taken training but looking for a full-time job
+Experienced candidate- who is looking for career advancement
+Kindly share your Cv on career@yudiz.com and be a part of the Virtual Walk-ins-Interview drive.
+=============
+AM Webtech Pvt Ltd is expanding its team & looking for energetic professionals who thrive for knowledge & success.
+We are hiring for
+#QA Trainee (Fresher)
+location:- #Indore
+If you or someone you know is interested in the following opportunities mention them.
+Share your resume to hr@amwebtech.com
+Call:- 844 844 9003
+=============
+* WE'RE HIRING at Indi Energy **
+Position: Technical Assistant
+Job Description:
+We are looking for a talented and highly-analytical Technical assistant to join our growing team. As the Technical
+assistant, you will work with our senior staff to process samples, perform tests, and record and analyze results. The
+successful candidate will have in-depth knowledge of lab procedures and understand the importance of maintaining a clean
+workspace by following all lab regulations for health and safety.
+In addition to having strong attention to detail, you must be responsible and demonstrate excellent communication
+skills. If you thrive in fast-paced working environments that require a professional with drive and exceptional
+analytical skills, then you could be our ideal candidate.
+Responsibilities:
+Prepare samples for testing using various laboratory equipment.
+Maintain all laboratory records.
+Comply with the correct procedures, policies, and health and safety regulations.
+Conduct laboratory tests, analyze results, and document your findings.
+Stay informed with the latest industry trends, techniques, and best practices.
+Document all activities, results and report back to management.
+Clean and sterilize equipment and work area.
+Collect and prepare research and information needed for studies.
+Classify and label samples.
+Undertake basic administrative tasks such as filing and answering telephones.
+Requirements:
+Bachelor’s degree in chemical engineering/material engineering or Master’s degree in chemistry /physics/material
+science.
+Both freshers and experienced persons can apply.
+Good understanding of laboratory information systems and automated laboratory equipment.
+A critical thinker with strong attention to detail.
+Excellent verbal and written communication skills.
+Good analytical abilities.
+Compensation: Competitive
+Location: Roorkee, Uttarakhand
+Joining: Immediate requirement
+Interested candidates can send their CV and job proposal to careers@indienergy.in.
+=============
+We are hiring Fresher and experienced PHP developers.
+Come work at Incubers Services, a leading firm in our industry in the metro area. We are looking to hire an experienced
+PHP Developer to help us keep growing. If you're hard-working and dedicated, Incubers Services. is an ideal place to get
+ahead.
+Job Title:
+PHP developer
+Responsibilities
+· Work closely with the IT team in completing projects
+· Excellent English required (Written & Spoken)
+· Troubleshoot and fix any issues relating to PHP programs
+· Ensure smooth operations of web processes and infrastructure
+· Create scripts to facilitate client systems to meet performance and objectives
+· Test and develop software for client applications
+· Create documentation for software created
+· Utilize source debuggers and write or modify client software
+· Produce results effectively and within the deadlines set.
+Requirements:
+· Bachelors degree in Computer Science or similar field.
+· Knowledge of PHP web frameworks including Yii, Laravel, and CodeIgniter.
+· Knowledge of front-end technologies including CSS3, JavaScript, and HTML5.
+· Understanding of object-oriented PHP programming.
+· Previous experience creating scalable applications.
+· Proficient with code versioning tools including Git, Mercurial, CVS, and SVN.
+· Familiarity with SQL/NoSQL databases.
+· Ability to manage and lead projects.
+· Good analytical and problem-solving skills.
+Share your CV at Hr@incubers.com
+Job location: JAIPUR
+Address
+Incubers Services LLP, 418, 4th floor, Jaipur Electronics Market, Near Riddhi Siddhi Circle, Gopalpura Bypass Jaipur.
+============
+Looking for a Graphic Designer for a remote/WFA position.
+Salary as per industry standards.
+Freshers also welcome to apply.
+Send across your CVs and Work Profiles to our email id at: careers@ientrepreneur.co.in
+#graphicdesigner #jobs #hiring #recruitment
+============
+Web designing Fresher opening
+neha.sharma@ablysoft.com
+hr@codecorners.com
+============
+Programming Interns - #2
+Last year Students / Freshers only.
+Office Location: Ahmedabad, Gujarat
+Remuneration: No Bar for right candidates
+Share your resumes on anuja.shah@alept.com / Call or WhatsApp on +91 - 9924649574.
+Draft your mail with following details and attach your updated resume.
+- Current Company
+- Current Salary
+- Expected Salary
+- Notice Period (Immediate Joiners / Serving NP/ Maximum 45 Days NP only Apply)
+- Current Location
+- Any extra information you want to add
+=============
+Hiring Freshers,
+Job Description:-
+#Looking for BE/BTech pass outs from 2019/2020/2021 Batches
+Academics: 60% and above throughout (10th, 12th, and B Tech/MCA) without any backlogs.
+Excellent Communication & Inter-personal skills Mandatory.
+Ability to adapt new techniques and technology quickly
+Good analytical and problem-solving skills
+Must be able to work in a team and as an individual
+Excellent communication skills both verbal and written
+Ready to work in different shifts (24x7 Rotational)
+hemant.batra@supraes.com
+=============
+Any Fresher from Bangalore location?
+A person who is looking for the job into technical field and is from B.tech/BCA/B.Sc background or graduation dropped
+out can apply to this job.
+We need only freshers who are good with English and Hindi Communication.
+Interested candidates can share their CV at rashi.patel@nlbservices.com or at 8755710738
+=============
+📢 Are you a Fresher with B.E/B.Tech/M.Tech/MCA
+looking for a Platform to start your career? Your search ends here
+CODEVISION TECHNOLOGIES PRIVATE LIMITED is hiring for #intern
+Hit Like and Comment "INTERESTED" if you want to apply 👇
+or send your resume at : jobs@thecodevision.com
+Location: Ahmedabad
+Benefits
+1. 5 days working
+2. Friendly environment
+3. Flexible timing
+4. Best package in the market
+5. Exposure to work with Microsoft advance technologies like
+✅ .Net
+✅ SharePoint
+✅ Xamarin
+✅ Power Apps
+✅ React
+✅ Angular
+==============
+Are you fresher and looking for your career in Quality Analyst/Software Testing or Business Development. Cool, we are
+providing internships for the same. Share your CV at careers@xprate.com
+==============
+Looking for IT Freshers
+Eligibility: Any IT graduate (PASSOUT compulsory)
+Email your CV to chetan.chauhan@neutrinotechlabs.com
+==============
+We're #urgently looking for #below #profiles :
+#Profile :
+>>Full stack developers (2+ years of Experience)
+>>Business Development Executive ( 2+ years of Experience)
+>>Software Development Trainee (fresher)
+>>QA (fresher)
+#location : #Ahmedabad , #Gujarat
+#salary : Depends on Your Experience
+- #5_Days_working
+- #Work_from_Office
+#Perks:
+#OnTime #Salary
+Yearly #Appraisal
+Team #Outing
+Referral #BONUS
+#Leave_Encashment
+#Festival #Celebration and many more #hidden #benefits
+Interested #candidates can share #CV on
+#Email : hr@shaligraminfotech.com or avani.p@shaligraminfotech.com
+=============
+#hiring at #noitechnologies
+interns and freshers who are looking for internship plus job may apply
+Job location - Jaipur
+1. Business Development
+2 . Full Stack Java
+3. React JS
+4. Vue JS
+please share your resume at hr@noitechnologies.com
+=============
+At UG Bazaar, We are hiring!
+Opportunities for both freshers and experienced. Work from home is not available due to the nature of openings.
+All of these openings are high-priority openings and we are looking to fulfill them at the soonest.
+Note: For the vacancy of flutter developers, only junior level is vacant.
+You can reach out to me personally if you want to ask anything that's not already mentioned.
+For more details or to apply:
+==============
+Successive Technologies Pvt Ltd is hiring 30 Freshers for the profiles of :
+0-1 years experience will work
+1. Node Developer
+2. Cloud Engineer
+3. Presales
+Communication should be 7+/10
+If interested, Kindly share your CV at akanksha.gupta@successive.tech
+=============
+Root Info Solutions Off Campus Drive Hiring Freshers For Software Trainee Position- BE/BTech/MCA
+Location: Okhla, Delhi
+Job Description: We are currently looking to hire several Software Engineering to work on the development of a
+state-of-the-art C, C++, Java, JavaScript, Swift, HTML, CSS, Python software application.
+As a critical and important member of the Software Development Team, you are able to take on challenges, work to high
+standards, learn quickly, work well with other prominent team members, and can adapt to the fast-paced software
+development process.
+As a Software Engineering, you have excellent technical skills and the ability to learn new concepts on your own. You
+look to improve your career experience by working on technically challenging projects along with other team members–just
+like yourself.
+Freshers can walk-in for the drive on 24th July 2021 at 9:30 A.M. at our Okhla office
+Email your resume to "info@rootinfosol.com"
+=============
+Hiring: Junior accounts executive, PHP and Laravel developer. Jaipur location. Freshers/experienced, both can apply.
+Contact on 78499-05054 for more details.
+==============
+Designation WordPress Developer
+Currently WFH
+Freshers to 2yrs
+Job Roles
+Designing and managing the website back-end including database and server integration, implementing new features and
+functionality
+2. Establishing and guiding the website’s architecture, building the website front-end
+3. Ensuring high-performance and availability, and managing all technical aspects of the CMS
+4. Helping formulate an effective, responsive design and turning it into a working theme and plugin.
+5. Should be able to work on front-end technologies, like HTML5, CSS3, JavaScript, jQuery
+6. Experience building user interfaces for websites and/or web applications.
+7. Experience designing and developing responsive design websites (Bootstrap)
+8. Comfortable working with debugging tools like Firebug, Chrome inspector, etc.
+9. Ability to understand CSS changes and their ramifications to ensure consistent style across platforms and browsers.
+10. Ability to convert comprehensive layout and wireframes into working HTML pages
+11. Knowledge of how to interact with RESTful APIs and formats (JSON, XML)
+12. Proficient understanding of code versioning tools {{such as Git, SVN, and Mercurial}}
+13. Strong understanding of PHP back-end development, Conducting website performance tests.
+Share your CV to hr@vijayfoods.com
+7892060588
+=============
+Greetings from the Laxmisoft Technologies
+We provide mobile app development and web development services that can help launch any business, grow any digital
+presence, or amplify brand awareness. We leverage the pinnacle of digital technologies to help our clients become
+leading digital enterprises. Our Support services will make sure any business runs smoothly.
+*𝐅𝐫𝐞𝐬𝐡𝐞𝐫𝐬 𝐚𝐫𝐞 𝐦𝐨𝐬𝐭 𝐰𝐞𝐥𝐜𝐨𝐦𝐞*
+No of opportunities: 10
+Technical skills required: PHP, Android, iOS, HTML, CSS, JavaScript, Node, Angular, React js
+Trainees/Freshers/ or any Experience candidates can apply
+Job Location: Mota Varachha, Surat
+Kindly share your resume at 𝐢𝐧𝐟𝐨@𝐥𝐚𝐱𝐦𝐢𝐬𝐨𝐟𝐭.𝐧𝐞𝐭 or WhatsApp +𝟗𝟏𝟕𝟒𝟎𝟓𝟒𝟏𝟏𝟑𝟒𝟗
+=============
+Hiring Fresher System Analyst (Work from Home)
+Location: Bangalore/Bengaluru Chennai
+Hiring For: Devshree Technologies
+Salary: 20 K to 25 K
+Kindly send us resume to this email id - devshreetechnologypvtltd@gmail.com
+Madurai, Chennai, Bangalore/Bengaluru
+Skills Required: HTML,C++
+=============
+Greetings from the Exaltare Technologies Private Limited
+Exaltare provides mobile app development and web development services that can help launch any business, grow any
+digital presence or amplify brand awareness. We leverage the pinnacle of digital technologies to help our clients become
+leading digital enterprises. Our Support services will make sure any business runs smoothly.
+**Freshers are most welcome**
+No of opportunities: 20
+Technical Skills required: PHP, Android, iOS, HTML, CSS, JavaScript, Node, Angular, React js
+Trainees/Freshers/Experience required: Freshers/ Trainees
+Job location: Surat
+Working Days: 5 Day
+Job description: Company will decide to move the candidates on any technologies according to his/her capabilities.
+Kindly share your resume at hr.surat@exaltaretech.com
+Regards,
+Sweta Paghdar
+8141814111
+==============
+#Hi #linkedinfamily ( #Wokfromhome )
+Hiring Work From Home Opportunity
+#PHP Software Developer Fresher Trainee
+#PHP Software Developer (2yr to 6yr )
+#PHP Software Developer Team Lead (5yr to 10yr)
+Email:- CV- Careers@mechlintech.com
+=============
+Urgent Hiring -
+Laravel Developer
+ionic Developer
+Company - Socialkit.in
+Interested candidates can share their resume at socialkitwork01@gmail.com
+Call and WhatsApp: +91-9828168430
+============
+We are looking a fresher for PHP developer @mohali
+Interested can call on 9914669262
+============
+#wordpressdeveloper :- Fresher to 2 years
+#Note :-Only Immediate joiner or 20 days’ notice period candidates can apply.
+Interested Candidates can share their resume at hr@palinfocom.com
+#references will be highly appreciated.
+#5_days working (Alternate Saturday)
+#Location:- Phase – 8B, Mohali, (Punjab)
+=============
+We are hiring PHP Developer with Coral Draw and Photoshop.
+Fresher can also apply
+Archnahrm@implexcart.co.in
+=============
+#Urgent_Hiring #job #fresherjob
+#WebsiteDesign 0 to 6 month (Relevant course and good knowledge of design, html,php,WordPress)
+Location : Noida Sec-65
+Company- Softrab Solution PVT. LTD
+Salary: - no bar for the right person.
+Interested candidates may share their CV at jahid.softrab@gmail.com
+=============
+Hello #intern2021 & #freshers,
+If you or your connections are looking for an internship or job, please share your resume on hr@accreteinfo.com for the
+following positions:
+1. .Net Development
+2. PHP Development
+3. ReactJS Development
+4. NodeJS Development
+=============
+..:: WE ARE HIRING ::..
+➟ #PHP Developer
+Experience: 1+ years (Freshers also welcome)
+➟ #WordPress Developer
+Experience: 1+ years (Freshers also welcome)
+➟ #BDE [Business Development Executive]
+Experience: 1+ years (Freshers also welcome)
+➥ Apply Now:
+Send your CV to contact@sparkleinfotech.com
+=============
+Hiring Software Developer (Javascript, React.JS, Angular.JS, Node.JS and PHP, CodeIgniter, Laravel) and Business
+Development Executive***
+Company Name - Codes For Tomorrow (CFT)
+Experience : Fresher / Experience
+Location : Indore
+Joining Period : Immediate
+Eligibility Criteria :
+#. Good Communication Skills and Convincing Power.
+#. Expect in negotiations and also have technical knowledge in any technology.
+#. Sound Knowledge of Javascript / PHP Basics
+#. Basic Knowledge of Database (SQL, NoSQL)
+#. Good Knowledge of NodeJS/React/Angular or any
+PHP Framework
+#. Good written, verbal communication and analytical
+skills
+Salary : Negotiable based on the interview
+For Developer profile Bond Period : 1
+Year
+Interview Round : 3
+Phone Number : 0731 4058698, 7879165016.
+Mail ID - hr@codesfortomorrow.com
+=============
+Nickelfox Technologies Hiring Developers
+Job Role : HTML, CSS Developer
+Education : Any Graduation
+Year Of Passing : Any Batch
+Branch : Any
+Experience : Fresher's / Experienced
+Location : Noida, India
+https://www.nickelfox.com/career/job-description/?id=35
+=============
+Current openings at Cetacean Business Solutions:
+4. ASP.NET MVC (Exp: 2+ yrs & Freshers)
+6. iOS Developers (Exp: 2-3 yrs & Freshers)
+7. Android Developers (2-3 yrs & Freshers)
+13. Content Writer (Exp: 0-6 months)
+14. Software Interns (Freshers from CS/IT/Electronics/Mech/Electrical/Civil background will be recruited in Top Kerala
+based IT MNCs upon successful completion of company's software development internship program, nominal registration fee
+will be charged)
+Qualification :
+Candidates must be a Graduate/Postgraduate in IT/Computer Science or any related areas. Must have relevant experience in
+the areas based on the above designations.
+Interested candidates who are willing to relocate to Kochi, Kerala in future can send their updated resumes to
+careers@cetaceangroup.com
+=============
+We are an organization “with a soul” and our Culture defines who we are.
+bebo Technologies is holding the Virtual Job Fair on
+Date: 17th July, 2021
+Timings: 10:00 am to 5:00 pm
+Notice Period - Immediate, 15 days
+https://bebotechnologiesin.mobile-recruit.com/m/2c575VVVV?source=2e2ivVVVV
+=============
+Nassec.io is a Cyber Security firm opens vacancy for Frontend Developer (VUE JS)
+Job Type: Full Time
+Work Experience: Minimum 3 months
+Hours required per week: 8 hours (Sunday to Friday)
+Salary: Negotiable
+Education: Skills BA in Computer Science/IT or similar relevant field (running)
+Technical skills Required:
+Programming Language - VUE JS, HTML, CSS
+Database - Mongo BD
+API - PostMan
+Collaboration - Github/Gitlab, Trello
+Highly proficient in Vue.js framework.
+Email your CV and Resume at hr@nassec.io
+=============
+Urgently hiring for-
+PHP Developer (Experience- Fresher)
+React JS (Experience- Fresher)
+Location- Panchkula
+5 days working
+Work from Office
+==============
+Our family of Cypherox is looking for dedicated members to join our team to match pace with our continuously growing
+culture. Browse through the latest job openings
+PHP Developer
+Exp- 1- 6 years
+Location- Rajkot/Ahmedabad
+Wordpress Developer
+Exp- 6 Months+
+Location- Rajkot/Ahmedabad
+Business Analyst
+Exp- 6 Months+
+Location- Rajkot Only
+Business Development Executive
+Exp- Freshers can also apply
+Location- Rajkot Only
+Laravel/CI Developer
+Exp- 6 Months+
+Location- Rajkot/Ahmedabad
+Shopify Developer
+Exp- 3 Months+
+Location- Rajkot/Ahmedabad
+Please share your resume at tulika.cypherox@gmail.com
+or reach us at 9033199949
+=============
+AveryBit Solutions is hiring for the Freshers and Experience Candidates.
+**** Job Location: INDORE, MADHYA PRADESH ****
+#job2021 #reactnativedevelopers #fullstackdevelopers
+Positions: React and React Native developer
+Experience:0 to 2 years
+Location: * Indore *
+Skills: Redux ,RN Hooks, Graph QL, Animation, Authentication, OOPS, JavaScript.
+Person should be from Indore or nearby Cities are preferred.
+Interested individuals can share their resumes at
+join@averybit.com
+==============
+I have #greatopportunity for these profiles:
+1. #SeniorPHP/ #Full_Stack_Developer (03yrs To 07yrs)
+#Skills: #PHP, #Laravel #CI, #NodeJs #Angular
+#Immediatejoiner
+2. #FresherPHPDeveloper (05Nos)
+#Job_Location: #Mohali
+Interested ones share CV at manishch2328@gmail.com
+Please #Like #Share #Tag #Reference
+==============
+We are hiring for following profiles:
+If you have references please tag their LinkedIn profile or share resume at contact@yugtechno.com
+Location : Indore, MP
+2) Jr. PHP Developers (1+ years experienced, trained freshers may also apply)
+Immediate Joiners Preferred.
+===============
+We are looking for trainer to deliver freshers batch on below technologies:
+1. HTML
+2. CSS
+3. OOJS
+4. Advance React
+5. Angular
+6. NFR ( Performance, Security and accessibility)
+This training will run in batches and the duration will be for 2 weeks for each batch. Minimum duration client is
+looking for is 2 months, starting next week.
+Expectations from trainer –
+1. Conduct the full day trainings with the batch
+2. Evaluate their case study solutions and provide feedback
+share updated profile at resource@edutechsuvidha.com
+==============
+Shopclues.com is hiring for "#campaign analyst profile"
+Experience: 0-2 Years
+Mandatory Skills : SQL, HTML, MS Office
+Education Qualifications: BCA/Btech/MBA/MCA
+Interested candidates can be in touch with me via payal.negi@shopclues.com
+Kindly mention your CTC,Hike %, Notice Period in mail. Freshers need not to mention these details.
+Location - WFH ( Till situation improves later on Gurgaon )
+Subject: Application for "Campaign Analyst-Shopclues"
+==============
+we are looking for a Software Developers [both freshers and experienced] to work in our engineering department. We are
+looking for a candidate with the following skill set.
+Experienced - Relevant years of experience in applications development using tools such as Angular, ReactJS, Dot Net. In
+depth knowledge of JavaScript, CSS, HTML, and front – end – language. Freshers - Fresher with Bachelors'/Master of
+Technology degree in Computer Science from a reputed college. Good understanding of data structures & algorithms and
+their space & time complexities
+if you are interested please feel free to contact me - mahima.agrawal@alphamate.in..
+phone no- 9643749191
+===============
+We are looking for experienced PHP web developer
+responsible for managing back-end services and the interchange of data between the server and the users.
+Your primary focus will be the development of all server-side logic, definition, and maintenance of the central
+database, and ensuring high performance and responsiveness to requests from the front-end.
+Profile- PHP web developer(wordpress,)
+Qualifica- Graduation
+Salary -2 LPA-4 LPA
+Experience-1-3 years
+Fresher also can apply
+Key kills:-
+Php, Html, Javascript, Mysql
+Required Experience and Qualifications
+1. Basic understanding of front-end technologies, such as JavaScript, HTML,and CSS
+2. Familiarity with SQL/NoSQL databases and their declarative query languages
+3. strong knowledge of cms such as wordpress , magento, woocomerce
+4. Creating database schemas that represent and support business processes
+5. Integration of multiple data sources and databases into one system
+6. Understanding fundamental design principles behind a scalable application
+Location- Indore
+direct hiring for the company
+ther is no any consultant charge
+Interested Candidate please share your CV at
+Contact-9691769845 ( Whatsapp)
+hr.chetnachoudhary@gmail.com
+==============
+Company :- MNC
+MCA Registered Company
+Job profile- Software Engineer ( Java,Python,Php, dot net) , Aws , Salesforce, Sap fico , Sap MM, Sap hana, Cyber
+Security , Data science engineer etc.
+Qualifications- B.tech, M.tech, Mca, Bca, Msc, Bsc, ME, BE etc.
+Salary package - 3.20 To 3.60 LPA For fresher
+Experience :- 20% to 30% Hike
+Job location :- Bangalore
+Interview :- Face to Face or Telephonic
+Company bond for 24th months​ it is on agreement with the Employee
+interested candidates Please Share Updated CV. mail id -
+venushrreema@gmail.com
+=============
+Openings for Fresher/Experience for Location Mohali (Work from office):
+1. PHP Developer
+2. PHP Team Lead
+3. Shopify Developer
+4. HR Recruiter (IT)
+Please send your resume at anshikasharmaseven@gmail.com
+=============
+We are #hiring PHP Developer.
+Experience Required: 1 to 2 year
+Job Type: Full time
+Location: Jabalpur
+Eligibility: Work experience of IT services company only.
+Interested people can send us their resume at hello@codeholic.in
+Immediate joining would be preferred.
+Do refer your friends.
+PS: Freshers with basic knowledge can also apply.
+==============
+Job openings for freshers
+Crystal Code Labs is a Software Company! Located in Udumalpet.
+Now Hiring freshers for Web and Mobile App Development.
+Need : Enthusiastic and responsive freshers
+Job Types : Full-time
+Preferred : HTML, CSS, Javascript / PHP / Any language
+Email : kaviya@crystalcodelabs.com / hr@crystalcodelabs.com
+Location : Udumalpet
+==============
+looking for 1+ year engineers (freshers are also welcome) with following requirement
+role1: Microcontroller (ARM, PIC) with C,
+understanding in printed circuit design and overall electronics with emphasis on power electronics. extra advantage for
+raspberry pi
+role2 : Java, java script, android studio, css, html with understanding of basic electronics.
+you may send resume to : amrita.seacom@gmail.com
+===============
+Hiring #Freshers is a different kind of Joy....!!
+Because we know the feelings of getting first job !!
+WebCodeGenie Technology Pvt Ltd is here to boost your professional career and came up with bulk hiring for Software
+Developer Profile.
+Job Description (Must Have)
+● Strong knowledge of his academic projects done.
+● Strong knowledge in any of C & C++, Java, PHP
+● Ability to learn and adapt to new technologies.
+● Strong Understanding of OOPs Concept and Programming.
+● Knowledge of Relational Database and Schema-less Database is
+preferable.
+career@webcodegenie.com
+==============
+​#CodeNo​mad is hiring for following positions:
+1. #PHP Web Developer (Fresher)
+2. #Android Developer (Freshers-2years Exp.)
+3. #IOS Developer (Freshers-2 years Exp.)
+4. #Mern Stack Developer (Freshers-2 years)
+5. #Angular Front-end Developer (1-2years Exp.)
+Freshers with excellent technical knowledge are welcome for the interview.
+Good Salary hike.
+Learning Environment
+#interested candidates #shareresume at hr@codenomad.net
+For any query feel free to contact.
+==============
+WebePower is seeking a fresher/experienced Magento developer to build and maintain the ecommerce website for our
+clients. Must have basic knowledge in PHP and Magento.
+Interested candidates can submit their resumes:- info@webepower.biz or call us @+91- 9785311511
+Experience:- 6 months - 1 year
+Job Location: Jaipur
+Benefits:-
+• 5 days working
+• Good Stipend/Salary
+• Great working culture
+============
+BTech Fresher openings
+50 openings
+20/21 passed outs
+career@silvertouch.com
+Mean stack
+Angular
+React
+Node
+Python
+Cloud
+Ahmedabad - wfo only
+=============
+We are urgently hiring for Software Engineer
+| Complere Infosystem | | Fresher or 0-1yr Exp. | | Location: Ambala Cantt. |
+Designation: Software Engineer
+Joining: Immediately!
+Qualification: B.Tech / B.Sc/ B.E / B.C.A / M.C.A
+Candidate Should Have
+· Strong programming skills
+· Excellent problem-solving skills
+· Excellent communication skills
+· Good to have experience in Javascript/Jquery/CSS/HTML/PHP/NodeJS/ ReactJS etc.
+Interview mode: F2F
+5 days working: {Monday to Friday} {9:00 AM to 6:00 PM}
+If you want to stay up-to-date join us on WhatsApp
+https://lnkd.in/eytQHFr
+Website- https://lnkd.in/euzrzkp
+Email- hr@complereinfosystem.com
+Contact No- 9306576895
+=============
+We are hiring for multiple positions at #Surat :
+#Freshers and #Experienced candidates can apply.
+1) PHP Developer
+2) Front-End Developer
+3) Business Development Executive
+4) Digital Marketing Executive
+5) Quality Analyst
+6) UI/UX Designer (Experienced candidates only)
+You can visit our career page to know more about the job roles:
+https://lnkd.in/fEfQBqt
+Interested candidates can mail their CV to admin@smartinfosys.net or call +91-9737005566.
+** We are hiring through campus placements also and placement officers/ student co-ordinators can contact me on the
+number mentioned above.
+=============
+We are hiring PHP freshers for Mumbai location.
+Kindly find the below details:
+- BSc, BCA, MCA, BE/B.Tech (2020 and 2021 pass out candidates only)
+- Basic knowledge of PHP, Magento
+- 6 months exp in PHP / Magento would be preferable
+Share your resume at
+ekta.madnani@vernost.in
+==============
+WE ARE HIRING :
+Job Vacancies For Chandigarh , Bangalore.
+Work From home available for Experienced candidates.
+Fresher PHP Developer (05 opening)
+Experience : 06 months Training Experience
+Mode of Interview : Face To Face Round.
+Senior Full Stack PHP Developer (03yrs To 07yrs)
+Salary Budget : 30K To 55K per month
+Mode of Interview: Telephonic OR F2F round.
+Email Your Resume : info@kvs-career.com
+==============
+Dear Jobseeker,
+We have opening for freshers
+* Good knowledge in PHP, Dotnet
+* Flexible in work
+* Good in communication
+Job location : Pollachi and Coimbatore
+Further details : contact : 9994472993
+==============
+We have urgent requirement of 5 PHP Interns at Redian Software Pvt Ltd.
+Location:- Noida
+Experienced:- Freshers (0-6 Months)
+Skills Required:
+Hands on experience in core PHP.
+Good command over PHP framework like Laravel/Codeigniter is an added advantage.
+Excellent knowledge of MySQL.
+Good command over AJAX/JQuery/HTML/CSS.
+Email US: hr@rediansoftware.com resumes@rediansoftware.zohorecruitmail.com
+Call Us: 9868569382 l 8750662156 I 9870629036
+=============
+As a SugarCRM / SuiteCRM Consultant, you will have the opportunity to work with a powerful web application using some of
+the latest technologies with a talented bunch of developers. You will work to design, develop, test, and launch new
+functionalities at Redian Software Pvt Ltd.
+Location:- Noida
+Experienced:- Freshers (0-6 Months)
+No of Open Positions:- 2
+BCA, B.Tech / M.Tech / MCA degree related to computer science, engineering, or a related subject.
+0-6 Months Exp. in SuiteCRM
+Possess excellent interpersonal, communications, and documentation skills
+Have an ability to communicate through voice and web calls - a critical requirement
+Knowledge with CRM systems (e.g. Suite CRM or SugarCRM), REST web services, and PHP.
+Knowledge with RDBMS (e.g. MySQL) Proficient in PHP, CRM Client Side Server Side Language, My SQL, CSS, and HTML.
+Email US: hr@rediansoftware.com resumes@rediansoftware.zohorecruitmail.com
+Call Us: 9868569382 l 8750662156 I 9870629036
+=============
+We, at Hobbitek, an upscaling IT firm, are looking to hire full-time professionals to fill the following positions:
+1) Wordpress/PHP/Frontend Developers (Freshers or Experienced < 3 years) 2) Flutter Developers (Freshers or Experienced
+    < 3 years) 3) BDMs/BDEs (Freshers or Experienced < 2 years) *A growth oriented environment to learn and flourish.
+    **Salary at par with industry standards. Interested candidates can mail their resumes to
+    careers@hobbitek.com==============We are looking for a PHP Developer in Rajkot who is dedicated to the craft, writes
+    code and specialized in designing and developing large scale Web applications. So, Great job opportunity for a PHP
+    job in Rajkot, Gujarat, India (Freshers Can Apply ). Required Skills For PHP Job Must be proficient in PHP, MySQL,
+    CSS, HTML, Javascript, AJAX, XML. Should have experience with Codeigniter, Joomla, WordPress, Drupal, Magento.
+    Understanding the fully synchronous behavior of PHP. Understanding of MVC design patterns. Knowledge of object
+    oriented PHP programming. Strong knowledge of the common PHP or web server exploits and their solutions. Integration
+    of multiple data sources and databases into one system. Familiarity with SQL/NoSQL databases and their declarative
+    query languages. Proficient understanding of code versioning tools, such as Git. Position: 04 Experience : 6 months
+    – 4 years (Freshers allowed) Technical Skills : PHP, MySQL, CSS, HTML, Javascript, AJAX, XML, Codeigniter,
+    WordPress. careers@conductexam.com============

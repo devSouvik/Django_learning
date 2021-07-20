@@ -1,0 +1,12 @@
+#top {
+  border: 5px solid blue;
+  margin: auto;
+  text-align: center;
+  width: 30%;
+  padding-top: 30px;
+}
+#bottom {
+  border: 5px solid red;
+  /* color: red; */
+  text-align: center;
+}

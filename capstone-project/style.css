@@ -1,0 +1,33 @@
+body {
+  text-align: center;
+  margin: auto;
+  background-color: #002244;
+  color: white;
+  font-size: larger;
+  /* font-size: 30px; */
+  border-left: 40px solid rgba(0, 255, 255, 0.904);
+  border-bottom: 40px solid rgba(0, 255, 255, 0.904);
+  border-right: 40px solid rgba(0, 255, 255, 0.904);
+
+  font-family: "Montserrat", sans-serif;
+}
+
+p {
+  padding-left: 20%;
+  padding-right: 20%;
+  padding-top: 5%;
+}
+
+#sub-button {
+  border-radius: 25px;
+  height: 80px;
+  width: 150px;
+  background-color: #ff9f1c;
+  margin: 5px;
+  margin-top: 12px;
+  font-size: 0.8em;
+}
+
+form {
+  font-size: 1.5em;
+}
